@@ -1,0 +1,9 @@
+/home/deniston/photo-ai/
+├── venv/                  <- Python environment (created by python3 -m venv)
+├── model.tflite           <- your trained model (copied with WinSCP)
+├── labels.txt             <- contains: CG on line 1, DM on line 2
+├── predict.py             <- the script that runs the model
+└── test_images/           <- put all photos to check here
+    ├── DM004_M_L.png
+    ├── CG010_x.png
+    └── ...
