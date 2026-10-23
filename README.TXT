@@ -63,4 +63,12 @@ bash
 
 nano predict.py
 
+step 4:Run
+
+bash
+
+cd ~/photo-ai
+source venv/bin/activate
+python predict.py
+
 
